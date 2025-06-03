@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil do Code Junior 😁
 
  <div>
    <a href="https://github.com/CodeJuniorGuiSD">
@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Para conhecer meu conteúdo sobre programação me segue nas redes abaixo e analisa o perfil!
  
 <div> 
   <a href="link instagram" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
